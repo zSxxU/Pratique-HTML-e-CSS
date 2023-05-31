@@ -18,7 +18,7 @@ O projeto tem em mente um site para uma barbearia com 3 páginas funcionais send
 
 <h2 align="center">Guia de Utilização</h2>
 
-Acesse o projeto pelo link: https://zsxxu.github.io/7-Days-of-Code-Alura-HTML-E-CSS/
+Acesse o projeto pelo link: https://pratique-html-e-css.vercel.app
 
 <h2 align="center">Status do projeto</h2>
   Concluído  (26/01/2023)
