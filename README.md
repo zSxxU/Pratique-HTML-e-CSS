@@ -8,7 +8,7 @@ O projeto tem em mente um site para uma barbearia com 3 páginas funcionais send
 
 <p>1. Home com informações gerais sobre a barbearia, localização com mapa interativo, beneficios e um vídeo de demonstração.</p>
 <p>2. Produtos com preço e detalhe de diferentes opções de cortes</p>
-<p>3. Contanto com um formulário para registrar seus dados, mensagem e uma tabela com os horários de funionamento.</p>
+<p>3. Contanto com um formulário para registrar seus dados, mensagem e uma tabela com os horários de funcionamento.</p>
 
 <h2 align="center">Demonstração do projeto</h2>
 
