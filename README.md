@@ -1,5 +1,8 @@
 <h1 align="center">Pratique HTML e CSS</h1>
 
+<h2 align="center">Certificado:</h2>
+<img src="https://cursos.alura.com.br/degree/certificate/48c621cd-231c-4d73-abd9-3e8223224a61?lang=pt_BR">
+
 <h2 align="center">Descrição:</h2>
 Projeto proposto pelo curso: "<a href="https://cursos.alura.com.br/formacao-html-css-v534235">Formação Pratique HTML e CSS em projetos Web</a>", da Alura Cursos Online.
 
